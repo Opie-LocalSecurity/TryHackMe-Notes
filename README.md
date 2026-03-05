@@ -233,3 +233,12 @@
 - Software Security
 - Managing Incidents
 - OWASP Top 10 (2025)
+
+## Other Courses
+
+- [YARA](00-Other-Courses/000.01-YARA.md)
+- [ZEEK](00-Other-Courses/000.02-ZEEK.md)
+- [Sysmon](00-Other-Courses/000.03-Sysmon.md)
+- [Core Windows Processes](00-Other-Courses/000.04-Core%20Windows%20Processes.md)
+- [Autopsy](00-Other-Courses/000.05-Autopsy.md)
+- [Volatility](00-Other-Courses/000.06-Volatility.md)
