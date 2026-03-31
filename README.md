@@ -1,6 +1,6 @@
 # TryHackMe Notes
 
-![alt text](LocalSecurity.jpg)
+![alt text](OPIESECURITY.jpg)
 
 ## Pre-Security
 
